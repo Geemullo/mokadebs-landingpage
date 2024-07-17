@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
 @font-face {
     font-family: 'TT chocolate';
-    src: url(/font/tt_chocolates/TT\ Chocolates\ Trial\ Regular.otf);
+    src: url(font/tt_chocolates/TT\ Chocolates\ Trial\ Regular.otf);
 }
 
 * {
@@ -33,7 +33,7 @@ h1 {
 }
 
 #home {
-    background: url(/imagens/home.jpg) no-repeat center;
+    background: url(imagens/home.jpg) no-repeat center;
     background-size: cover;
     width: 100%;
     height: 668px;
@@ -121,7 +121,7 @@ h1 {
 
 #bg_ext {
     width: 50%;
-    background: url(/imagens/aboutext.jpg) no-repeat center;
+    background: url(imagens/aboutext.jpg) no-repeat center;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -138,7 +138,7 @@ h1 {
 }
 
 #card_ext div {
-    background: url(/imagens/about_ext.png) no-repeat center;
+    background: url(imagens/about_ext.png) no-repeat center;
     background-size: cover;
     width: 270px;
     height: 400px;
@@ -165,7 +165,7 @@ h1 {
 }
 
 #featuresimg {
-    background: url(/imagens/features.png) no-repeat center;
+    background: url(imagens/features.png) no-repeat center;
     
     height: 498px;
     width: 917px;
@@ -244,7 +244,7 @@ h1 {
 #feedback {
     width: 100%;
     height: 668px;
-    background: url(/imagens/width_800.webp) no-repeat center;
+    background: url(imagens/width_800.webp) no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -297,7 +297,7 @@ h1 {
 #orderimg {
     width: 50%;
     height: 100%;
-    background: url(/imagens/order.jpg) no-repeat center;
+    background: url(imagens/order.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -331,7 +331,7 @@ h1 {
 #contactbg {
     width: 50%;
     height: 100%;
-    background: url(/imagens/contact.jpg) no-repeat center;
+    background: url(imagens/contact.jpg) no-repeat center;
     background-size: cover;
 }
 
